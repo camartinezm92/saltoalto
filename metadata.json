@@ -1,0 +1,6 @@
+{
+  "name": "Kinematic Jump Analyzer",
+  "description": "Videoanálisis biomecánico de salto vertical con calibración por cinta métrica, medición de tiempo de vuelo, altura y velocidad inicial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
